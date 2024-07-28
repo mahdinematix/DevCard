@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETY6NCBpF2PzovK1bvtgCF0lce05watGCPE6IO/NEsh/vrry1OAiEppYMEX7ambdMu6Phx43prxEkdgVnLrKOg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\test asp .net\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
